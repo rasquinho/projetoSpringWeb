@@ -1,0 +1,5 @@
+package com.wsaulas.userdept.repositories;
+
+public class UserRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.wsaulas.userdept.controllers;
+
+public class UserController {
+
+}

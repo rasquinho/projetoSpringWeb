@@ -1,0 +1,5 @@
+package com.wsaulas.userdept.entities;
+
+public class Department {
+
+}

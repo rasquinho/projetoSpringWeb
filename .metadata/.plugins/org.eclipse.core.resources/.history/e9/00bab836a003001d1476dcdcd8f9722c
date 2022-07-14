@@ -1,0 +1,15 @@
+package com.wsaulas.userdept.entities;
+
+public class User {
+
+	private Long id;
+	private String name;
+	private String email;
+	
+	private Department department;
+	
+	public User() {
+		
+	}
+}
+	
